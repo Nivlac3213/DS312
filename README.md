@@ -1,2 +1,2 @@
-# DS3212
-Repository for DS312 Machine Learging Class
+# DS312
+Repository for DS312 Machine Learning Course
